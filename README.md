@@ -107,7 +107,7 @@ class FernandoSilvestre:
 -  [MLOps in Production: From Experiment to Deployment](https://your-blog.com)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ **[See all posts on my Blog →](https://your-blog.com)**
+ **[See all posts on my Blog →](https://your-blog.com)**
 
 ---
 
