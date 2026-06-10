@@ -96,35 +96,6 @@ class FernandoSilvestre:
 ---
 
 
-##  Latest Blog Posts & Research
-
-> I write about **Data Science**, **Machine Learning**, **Python**, and **Cloud Engineering**. Check out my latest content:
-
-<!-- BLOG-POST-LIST:START -->
--  [Building Scalable ML Pipelines on AWS](https://your-blog.com)
--  [Statistical Modeling with Python & R: A Practical Guide](https://your-blog.com)
--  [Feature Engineering Techniques for Tabular Data](https://your-blog.com)
--  [MLOps in Production: From Experiment to Deployment](https://your-blog.com)
-<!-- BLOG-POST-LIST:END -->
-
- **[See all posts on my Blog →](https://your-blog.com)**
-
----
-
-##  YouTube & Content Creation
-
-<div align="center">
-
-<a href="https://youtube.com/@fernandosilvestre">
-  <img src="https://img.shields.io/badge/Subscribe_on_YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
-
-</div>
-
-I create video content about **Machine Learning**, **Data Engineering**, and **Python** in practice — tutorials, walkthroughs, and career tips for data professionals.
-
----
-
 ##  Research Interests
 
 ```
@@ -144,11 +115,9 @@ I create video content about **Machine Learning**, **Data Engineering**, and **P
 
 | Platform | Link |
 |----------|------|
-|  Portfolio | [[your-portfolio.com](https://silvestrefernandosci.github.io/landingpage/)](https://silvestrefernandosci.github.io/landingpage/) |
+|  Portfolio | [https://silvestrefernandosci.github.io/landingpage/](https://silvestrefernandosci.github.io/landingpage/) |
 |  LinkedIn | [linkedin.com/in/fernandosilvestre](https://linkedin.com/in/fernandosilvestre) |
-|  Instagram | [@fernandosilvestre](https://instagram.com/fernandosilvestre) |
-|  YouTube | [@fernandosilvestre](https://youtube.com/@fernandosilvestre) |
-|  Email | fernando@email.com |
+|  Email | silvestre.fernando.sci@gmail.com |
 
 </div>
 
