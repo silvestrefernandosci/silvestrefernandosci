@@ -8,9 +8,9 @@
 
 <div align="center">
 
-### 👋 Hey there! I'm **Fernando Silvestre**
+### Hey there! I'm **Fernando Silvestre**
 
-🚀 **Software Engineer** with **7+ years of experience**, specialized in **Data Analytics** and **Machine Learning Engineering**. I turn raw data into powerful insights and intelligent systems that drive real business impact.
+ **Software Engineer** with **7+ years of experience**, specialized in **Data Analytics** and **Machine Learning Engineering**. I turn raw data into powerful insights and intelligent systems that drive real business impact.
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logoColor=white)](https://your-portfolio.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fernandosilvestre)
@@ -23,7 +23,7 @@
 ---
 
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class FernandoSilvestre:
@@ -43,14 +43,14 @@ class FernandoSilvestre:
         ]
 ```
 
-- 🔭 Currently researching **LLMs applied to structured data** and **MLOps best practices**
-- 📚 Writing articles on **Data Science**, **Python**, and **Machine Learning** on my [Blog](https://your-blog.com)
-- 🎓 Passionate about **research, experimentation**, and sharing knowledge with the community
-- 💬 Ask me about **Python, ML pipelines, cloud data architecture, and statistical modeling**
+-  Currently researching **LLMs applied to structured data** and **MLOps best practices**
+-  Writing articles on **Data Science**, **Python**, and **Machine Learning** on my [Blog](https://your-blog.com)
+-  Passionate about **research, experimentation**, and sharing knowledge with the community
+-  Ask me about **Python, ML pipelines, cloud data architecture, and statistical modeling**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+##  Tech Stack & Tools
 
 <div align="center">
 
@@ -84,7 +84,7 @@ class FernandoSilvestre:
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 
 <div align="center">
@@ -96,22 +96,22 @@ class FernandoSilvestre:
 ---
 
 
-## 📝 Latest Blog Posts & Research
+##  Latest Blog Posts & Research
 
 > I write about **Data Science**, **Machine Learning**, **Python**, and **Cloud Engineering**. Check out my latest content:
 
 <!-- BLOG-POST-LIST:START -->
-- 📌 [Building Scalable ML Pipelines on AWS](https://your-blog.com)
-- 📌 [Statistical Modeling with Python & R: A Practical Guide](https://your-blog.com)
-- 📌 [Feature Engineering Techniques for Tabular Data](https://your-blog.com)
-- 📌 [MLOps in Production: From Experiment to Deployment](https://your-blog.com)
+-  [Building Scalable ML Pipelines on AWS](https://your-blog.com)
+-  [Statistical Modeling with Python & R: A Practical Guide](https://your-blog.com)
+-  [Feature Engineering Techniques for Tabular Data](https://your-blog.com)
+-  [MLOps in Production: From Experiment to Deployment](https://your-blog.com)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ **[See all posts on my Blog →](https://your-blog.com)**
 
 ---
 
-## 📺 YouTube & Content Creation
+##  YouTube & Content Creation
 
 <div align="center">
 
@@ -125,31 +125,30 @@ I create video content about **Machine Learning**, **Data Engineering**, and **P
 
 ---
 
-## 🔬 Research Interests
+##  Research Interests
 
 ```
-📌  Applied Machine Learning & Deep Learning
-📌  Natural Language Processing (NLP) with LLMs
-📌  Time Series Forecasting & Anomaly Detection
-📌  Causal Inference & Statistical Learning
-📌  MLOps, Model Monitoring & Data Drift
-📌  Cloud-native Data Architectures (AWS / Azure)
+  Applied Machine Learning & Deep Learning
+  Natural Language Processing (NLP) with LLMs
+  Time Series Forecasting & Anomaly Detection
+  Causal Inference & Statistical Learning
+  MLOps, Model Monitoring & Data Drift
+  Cloud-native Data Architectures (AWS / Azure)
 ```
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
 | Platform | Link |
 |----------|------|
-| 🌐 Portfolio | [your-portfolio.com](https://your-portfolio.com) |
-| 💼 LinkedIn | [linkedin.com/in/fernandosilvestre](https://linkedin.com/in/fernandosilvestre) |
-| 📸 Instagram | [@fernandosilvestre](https://instagram.com/fernandosilvestre) |
-| 📺 YouTube | [@fernandosilvestre](https://youtube.com/@fernandosilvestre) |
-| 📝 Blog | [your-blog.com](https://your-blog.com) |
-| 📧 Email | fernando@email.com |
+|  Portfolio | [[your-portfolio.com](https://silvestrefernandosci.github.io/landingpage/)](https://silvestrefernandosci.github.io/landingpage/) |
+|  LinkedIn | [linkedin.com/in/fernandosilvestre](https://linkedin.com/in/fernandosilvestre) |
+|  Instagram | [@fernandosilvestre](https://instagram.com/fernandosilvestre) |
+|  YouTube | [@fernandosilvestre](https://youtube.com/@fernandosilvestre) |
+|  Email | fernando@email.com |
 
 </div>
 
